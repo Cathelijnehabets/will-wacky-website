@@ -1,4 +1,8 @@
-# Will's Wacky website - static version
-## Personal website for fork testing
+# Cathelijne's Wacky website - static version
 
-Fork, download and destroy
+## Student CMD
+## Currently studying CMD at Hogeschool zuyd
+## Contact information is down below
+
+                                     Email: 2304193habets@zuyd.nl
+                                     Github: github.com/Cathelijnehabets
